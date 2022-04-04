@@ -1,0 +1,66 @@
+C:\Users\marsy\Source\Repos\kiinoo\kiinoo\bin\Debug\kiinoo.exe.config
+C:\Users\marsy\Source\Repos\kiinoo\kiinoo\bin\Debug\kiinoo.exe
+C:\Users\marsy\Source\Repos\kiinoo\kiinoo\bin\Debug\kiinoo.pdb
+C:\Users\marsy\Source\Repos\kiinoo\kiinoo\obj\Debug\kiinoo.csproj.AssemblyReference.cache
+C:\Users\marsy\Source\Repos\kiinoo\kiinoo\obj\Debug\kiinoo.csproj.SuggestedBindingRedirects.cache
+C:\Users\marsy\Source\Repos\kiinoo\kiinoo\obj\Debug\kiinoo.Form1.resources
+C:\Users\marsy\Source\Repos\kiinoo\kiinoo\obj\Debug\kiinoo.Properties.Resources.resources
+C:\Users\marsy\Source\Repos\kiinoo\kiinoo\obj\Debug\kiinoo.csproj.GenerateResource.cache
+C:\Users\marsy\Source\Repos\kiinoo\kiinoo\obj\Debug\kiinoo.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Source\Repos\kiinoo\kiinoo\obj\Debug\kiinoo.exe
+C:\Users\marsy\Source\Repos\kiinoo\kiinoo\obj\Debug\kiinoo.pdb
+C:\Users\marsy\Source\Repos\kiinoo\kiinoo\obj\Debug\kiinoo.MyMessageBox.resources
+C:\Users\TOMAS\Downloads\kiinoo\kiinoo\bin\Debug\kiinoo.exe.config
+C:\Users\TOMAS\Downloads\kiinoo\kiinoo\bin\Debug\kiinoo.exe
+C:\Users\TOMAS\Downloads\kiinoo\kiinoo\bin\Debug\kiinoo.pdb
+C:\Users\TOMAS\Downloads\kiinoo\kiinoo\obj\Debug\kiinoo.csproj.AssemblyReference.cache
+C:\Users\TOMAS\Downloads\kiinoo\kiinoo\obj\Debug\kiinoo.csproj.SuggestedBindingRedirects.cache
+C:\Users\TOMAS\Downloads\kiinoo\kiinoo\obj\Debug\kiinoo.Form1.resources
+C:\Users\TOMAS\Downloads\kiinoo\kiinoo\obj\Debug\kiinoo.MyMessageBox.resources
+C:\Users\TOMAS\Downloads\kiinoo\kiinoo\obj\Debug\kiinoo.Properties.Resources.resources
+C:\Users\TOMAS\Downloads\kiinoo\kiinoo\obj\Debug\kiinoo.Přihlášení.resources
+C:\Users\TOMAS\Downloads\kiinoo\kiinoo\obj\Debug\kiinoo.csproj.GenerateResource.cache
+C:\Users\TOMAS\Downloads\kiinoo\kiinoo\obj\Debug\kiinoo.csproj.CoreCompileInputs.cache
+C:\Users\TOMAS\Downloads\kiinoo\kiinoo\obj\Debug\kiinoo.exe
+C:\Users\TOMAS\Downloads\kiinoo\kiinoo\obj\Debug\kiinoo.pdb
+C:\Users\TOMAS\Downloads\kiinoo\kiinoo\obj\Debug\kiinoo.ZměnarozměrůKina.resources
+C:\Users\ALFA\Desktop\kiinoo\kiinoo\obj\Debug\kiinoo.csproj.AssemblyReference.cache
+C:\Users\ALFA\Desktop\kiinoo\kiinoo\obj\Debug\kiinoo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALFA\Desktop\kiinoo\kiinoo\obj\Debug\kiinoo.Form1.resources
+C:\Users\ALFA\Desktop\kiinoo\kiinoo\obj\Debug\kiinoo.MyMessageBox.resources
+C:\Users\ALFA\Desktop\kiinoo\kiinoo\obj\Debug\kiinoo.Properties.Resources.resources
+C:\Users\ALFA\Desktop\kiinoo\kiinoo\obj\Debug\kiinoo.Přihlášení.resources
+C:\Users\ALFA\Desktop\kiinoo\kiinoo\obj\Debug\kiinoo.ZměnarozměrůKina.resources
+C:\Users\ALFA\Desktop\kiinoo\kiinoo\obj\Debug\kiinoo.csproj.GenerateResource.cache
+C:\Users\ALFA\Desktop\kiinoo\kiinoo\obj\Debug\kiinoo.csproj.CoreCompileInputs.cache
+C:\Users\ALFA\Desktop\kiinoo\kiinoo\obj\Debug\kiinoo.exe
+C:\Users\ALFA\Desktop\kiinoo\kiinoo\obj\Debug\kiinoo.pdb
+C:\Users\ALFA\Desktop\kiinoo\kiinoo\bin\Debug\kiinoo.exe.config
+C:\Users\ALFA\Desktop\kiinoo\kiinoo\bin\Debug\kiinoo.exe
+C:\Users\ALFA\Desktop\kiinoo\kiinoo\bin\Debug\kiinoo.pdb
+C:\Users\marsy\Desktop\gfhfh\final_asi\kiinoo\bin\Debug\kiinoo.exe.config
+C:\Users\marsy\Desktop\gfhfh\final_asi\kiinoo\bin\Debug\kiinoo.exe
+C:\Users\marsy\Desktop\gfhfh\final_asi\kiinoo\bin\Debug\kiinoo.pdb
+C:\Users\marsy\Desktop\gfhfh\final_asi\kiinoo\obj\Debug\kiinoo.csproj.AssemblyReference.cache
+C:\Users\marsy\Desktop\gfhfh\final_asi\kiinoo\obj\Debug\kiinoo.Form1.resources
+C:\Users\marsy\Desktop\gfhfh\final_asi\kiinoo\obj\Debug\kiinoo.MyMessageBox.resources
+C:\Users\marsy\Desktop\gfhfh\final_asi\kiinoo\obj\Debug\kiinoo.Properties.Resources.resources
+C:\Users\marsy\Desktop\gfhfh\final_asi\kiinoo\obj\Debug\kiinoo.Přihlášení.resources
+C:\Users\marsy\Desktop\gfhfh\final_asi\kiinoo\obj\Debug\kiinoo.ZměnarozměrůKina.resources
+C:\Users\marsy\Desktop\gfhfh\final_asi\kiinoo\obj\Debug\kiinoo.csproj.GenerateResource.cache
+C:\Users\marsy\Desktop\gfhfh\final_asi\kiinoo\obj\Debug\kiinoo.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Desktop\gfhfh\final_asi\kiinoo\obj\Debug\kiinoo.exe
+C:\Users\marsy\Desktop\gfhfh\final_asi\kiinoo\obj\Debug\kiinoo.pdb
+C:\Users\marsy\Desktop\gfhfh\final_asi - kopie\kiinoo\bin\Debug\kiinoo.exe.config
+C:\Users\marsy\Desktop\gfhfh\final_asi - kopie\kiinoo\bin\Debug\kiinoo.exe
+C:\Users\marsy\Desktop\gfhfh\final_asi - kopie\kiinoo\bin\Debug\kiinoo.pdb
+C:\Users\marsy\Desktop\gfhfh\final_asi - kopie\kiinoo\obj\Debug\kiinoo.csproj.AssemblyReference.cache
+C:\Users\marsy\Desktop\gfhfh\final_asi - kopie\kiinoo\obj\Debug\kiinoo.Form1.resources
+C:\Users\marsy\Desktop\gfhfh\final_asi - kopie\kiinoo\obj\Debug\kiinoo.MyMessageBox.resources
+C:\Users\marsy\Desktop\gfhfh\final_asi - kopie\kiinoo\obj\Debug\kiinoo.Properties.Resources.resources
+C:\Users\marsy\Desktop\gfhfh\final_asi - kopie\kiinoo\obj\Debug\kiinoo.Přihlášení.resources
+C:\Users\marsy\Desktop\gfhfh\final_asi - kopie\kiinoo\obj\Debug\kiinoo.ZměnarozměrůKina.resources
+C:\Users\marsy\Desktop\gfhfh\final_asi - kopie\kiinoo\obj\Debug\kiinoo.csproj.GenerateResource.cache
+C:\Users\marsy\Desktop\gfhfh\final_asi - kopie\kiinoo\obj\Debug\kiinoo.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Desktop\gfhfh\final_asi - kopie\kiinoo\obj\Debug\kiinoo.exe
+C:\Users\marsy\Desktop\gfhfh\final_asi - kopie\kiinoo\obj\Debug\kiinoo.pdb
